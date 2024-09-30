@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c08a4c08.css",
+    "main.js": "/static/js/main.c367f21b.js",
+    "static/js/453.08498e73.chunk.js": "/static/js/453.08498e73.chunk.js",
+    "static/media/음식DB.xlsx": "/static/media/음식DB.173651686d7c183b4d48.xlsx",
+    "index.html": "/index.html",
+    "main.c08a4c08.css.map": "/static/css/main.c08a4c08.css.map",
+    "main.c367f21b.js.map": "/static/js/main.c367f21b.js.map",
+    "453.08498e73.chunk.js.map": "/static/js/453.08498e73.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c08a4c08.css",
+    "static/js/main.c367f21b.js"
+  ]
+}
